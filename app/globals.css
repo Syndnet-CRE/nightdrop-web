@@ -1,26 +1,178 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+:root {
+  /* Nightdrop Palette */
+  --nightdrop-green: #5BCC48;
+  --nightdrop-green-dark: #1DAF29;
+  --nightdrop-warning: #F4B73E;
+  --nightdrop-danger: #E5484D;
+
+  /* Surface & Text */
+  --nightdrop-surface-dark: #0a0a0a;
+  --nightdrop-surface-light: #ffffff;
+  --nightdrop-text-light: #0a0a0a;
+  --nightdrop-text-dark: #ffffff;
+  --nightdrop-text-muted: #888888;
+
+  /* Borders */
+  --nightdrop-border: #e0e0e0;
+  --nightdrop-border-dark: #2a2a2a;
+
+  /* Spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+  --space-3xl: 4rem;
+
+  /* Typography */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --text-4xl: 2.25rem;
+
+  --font-manrope: 'Manrope', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Transitions */
+  --duration-fast: 150ms;
+  --duration-normal: 300ms;
+  --duration-slow: 500ms;
+
+  /* Light mode (default) */
+  color-scheme: light;
+  --bg: var(--nightdrop-surface-light);
+  --fg: var(--nightdrop-text-light);
+  --fg-muted: var(--nightdrop-text-muted);
+  --border: var(--nightdrop-border);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    color-scheme: dark;
+    --bg: var(--nightdrop-surface-dark);
+    --fg: var(--nightdrop-text-dark);
+    --fg-muted: var(--nightdrop-text-muted);
+    --border: var(--nightdrop-border-dark);
   }
 }
 
+html[data-theme='dark'] {
+  color-scheme: dark;
+  --bg: var(--nightdrop-surface-dark);
+  --fg: var(--nightdrop-text-dark);
+  --fg-muted: var(--nightdrop-text-muted);
+  --border: var(--nightdrop-border-dark);
+}
+
+html[data-theme='light'] {
+  color-scheme: light;
+  --bg: var(--nightdrop-surface-light);
+  --fg: var(--nightdrop-text-light);
+  --fg-muted: var(--nightdrop-text-muted);
+  --border: var(--nightdrop-border);
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-manrope);
+  background-color: var(--bg);
+  color: var(--fg);
+  transition: background-color var(--duration-normal), color var(--duration-normal);
+}
+
+a {
+  color: var(--nightdrop-green);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--nightdrop-green-dark);
+}
+
+button {
+  font-family: var(--font-manrope);
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+  padding: var(--space-sm) var(--space-lg);
+  transition: all var(--duration-normal);
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+input,
+textarea,
+select {
+  font-family: var(--font-manrope);
+  background-color: var(--bg);
+  color: var(--fg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: var(--space-sm) var(--space-md);
+  transition: border-color var(--duration-normal);
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+  border-color: var(--nightdrop-green);
+  box-shadow: 0 0 0 3px rgba(91, 204, 72, 0.1);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  text-align: left;
+  padding: var(--space-md);
+  border-bottom: 1px solid var(--border);
+  font-weight: 600;
+  font-size: var(--text-sm);
+  color: var(--fg-muted);
+}
+
+td {
+  padding: var(--space-md);
+  border-bottom: 1px solid var(--border);
+}
+
+/* Utility classes */
+.text-muted {
+  color: var(--fg-muted);
+}
+
+.border-default {
+  border-color: var(--border);
+}
+
+.bg-surface {
+  background-color: var(--bg);
+}
+
+.text-default {
+  color: var(--fg);
 }
