@@ -2,15 +2,15 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { api } from '@/lib/api';
 import { useDeals } from '@/components/providers/deals-provider';
-import { useToast } from '../contexts/ToastContext';
-import { canProceedStep, buildPayload } from '../lib/wizardHelpers';
+import { useToast } from '@/components/providers/toast-provider';
+import { canProceedStep, buildPayload } from '@/lib/wizard-helpers';
 import {
   ASSET_CLASSES, SCHEDULE_DAYS, ALL_DAYS, DISTRESS_SIGNAL_OPTIONS,
   OWNER_TYPE_OPTIONS, GEO_TYPES, US_STATES, MAJOR_METROS,
   getAssetClass, formatUseCodes, formatSchedule, formatGeo,
-} from '../lib/buyBoxTaxonomy';
-import { I } from './Icons';
-import '../styles/buy-box-wizard.css';
+} from '@/lib/buy-box-taxonomy';
+import { I } from './icons';
+import '@/styles/buy-box-wizard.css';
 
 const STEP_LABELS = [
   'Name', 'Geography', 'Asset Class', 'Sub-Asset',
@@ -599,3 +599,5 @@ export function BuyBoxWizard({ mode = 'create', initialData = null, onSuccess, o
     </div>
   );
 }
+
+export default BuyBoxWizard;

@@ -9,9 +9,7 @@ import SettingsView from '@/components/dashboard/views/settings-view'
 import InviteView from '@/components/dashboard/views/invite-view'
 import AdminView from '@/components/dashboard/views/admin-view'
 import NightdropBar from '@/components/dashboard/nightdrop-bar'
-
-// TODO: Import deal detail components
-// import DealDetail from '@/components/dashboard/deal-detail'
+import ConfigurationOverlay from '@/components/dashboard/configuration-overlay'
 
 export default function AppPage() {
   const [view, setView] = useState('dashboard')
@@ -55,8 +53,16 @@ export default function AppPage() {
       />
       <main className="flex-1 overflow-auto">{renderView()}</main>
 
-      {/* TODO: Implement wizards and modals */}
-      {/* <ConfigurationOverlay open={showWizard} onOpenChange={setShowWizard} /> */}
+      {(showWizard || editingBuyBox) && (
+        <ConfigurationOverlay
+          open={showWizard || !!editingBuyBox}
+          onOpenChange={(open) => {
+            if (!open) { setShowWizard(false); setEditingBuyBox(null) }
+          }}
+          mode={editingBuyBox ? 'edit' : 'create'}
+          initialData={editingBuyBox}
+        />
+      )}
     </div>
   )
 }
