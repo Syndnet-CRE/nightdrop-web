@@ -2,5 +2,8 @@
   command = "npm run build"
   publish = ".next"
 
+[build.environment]
+  NEXT_PUBLIC_API_BASE_URL = "https://nightdrop-api.onrender.com"
+
 [[plugins]]
   package = "@netlify/plugin-nextjs"
