@@ -9,7 +9,7 @@ const manrope = Manrope({
 
 export const metadata = {
   title: 'Nightdrop',
-  description: 'Deal Feed Dashboard for CRE investors',
+  description: 'Nightdrop — Deal intelligence for CRE investors',
   icons: {
     icon: '/icon.svg',
   },

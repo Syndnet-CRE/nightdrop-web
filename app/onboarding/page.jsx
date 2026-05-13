@@ -2,7 +2,7 @@
 
 // TODO: Implement onboarding flow
 // This is a stub page for future onboarding workflow
-// Should guide new users through profile setup, buy box creation, and first deal feed
+// Should guide new users through profile setup, buy box creation, and first Nightdrop run
 
 import Link from 'next/link'
 
