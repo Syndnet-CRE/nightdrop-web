@@ -10,6 +10,7 @@ import InviteView from '@/components/dashboard/views/invite-view'
 import AdminView from '@/components/dashboard/views/admin-view'
 import NightdropBar from '@/components/dashboard/nightdrop-bar'
 import ConfigurationOverlay from '@/components/dashboard/configuration-overlay'
+import { BuyBoxEditModal } from '@/components/dashboard/buy-box-edit-modal'
 
 export default function AppPage() {
   const [view, setView] = useState('dashboard')
@@ -27,7 +28,13 @@ export default function AppPage() {
       case 'map':
         return <MapView />
       case 'boxes':
-        return <BuyBoxesView onEditBox={setEditingBuyBox} />
+        return (
+          <BuyBoxesView
+            onCreate={() => setShowWizard(true)}
+            onSettings={setEditingBuyBox}
+            onPause={setPausingBuyBox}
+          />
+        )
       case 'settings':
         return <SettingsView />
       case 'invites':
@@ -53,14 +60,18 @@ export default function AppPage() {
       />
       <main className="flex-1 overflow-auto">{renderView()}</main>
 
-      {(showWizard || editingBuyBox) && (
+      {showWizard && (
         <ConfigurationOverlay
-          open={showWizard || !!editingBuyBox}
-          onOpenChange={(open) => {
-            if (!open) { setShowWizard(false); setEditingBuyBox(null) }
-          }}
-          mode={editingBuyBox ? 'edit' : 'create'}
-          initialData={editingBuyBox}
+          open={showWizard}
+          onOpenChange={(open) => { if (!open) setShowWizard(false) }}
+          mode="create"
+        />
+      )}
+
+      {editingBuyBox && (
+        <BuyBoxEditModal
+          box={editingBuyBox}
+          onClose={() => setEditingBuyBox(null)}
         />
       )}
     </div>

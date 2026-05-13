@@ -10,7 +10,7 @@ function fmtDate(iso) {
   return new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 }
 
-export default function BuyBoxesView({ onCreate, onEdit, onPause }) {
+export default function BuyBoxesView({ onCreate, onSettings, onPause }) {
   const { buyBoxes, loading, patchBuyBox } = useDeals();
   const [resumeError, setResumeError] = useState(null);
   const failed = buyBoxes.filter(b => b.status === 'Coverage Failed');
@@ -109,9 +109,19 @@ export default function BuyBoxesView({ onCreate, onEdit, onPause }) {
                     <div className="bb-name">{boxName}</div>
                     <div className="bb-geo"><I.Pin size={11}/> {geoDisplay}</div>
                   </div>
-                  <span className={`pill ${intent}`}>
-                    <span className="pip"/>{statusLabel}
-                  </span>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: 8, flexShrink: 0 }}>
+                    <span className={`pill ${intent}`}>
+                      <span className="pip"/>{statusLabel}
+                    </span>
+                    <button
+                      type="button"
+                      className="bb-iconbtn"
+                      aria-label="Edit buy box settings"
+                      onClick={() => onSettings?.(b)}
+                    >
+                      <I.SlidersVertical size={13}/>
+                    </button>
+                  </div>
                 </div>
                 <div className="bb-tags">
                   {cls && <span className="tag">{cls.label}</span>}
@@ -145,7 +155,7 @@ export default function BuyBoxesView({ onCreate, onEdit, onPause }) {
                   </div>
                 </div>
                 <div className="bb-actions">
-                  <button className="btn sm" style={{ flex: 1 }} onClick={() => onEdit?.(b)}>
+                  <button className="btn sm" style={{ flex: 1 }} onClick={() => onSettings?.(b)}>
                     <I.Edit size={12}/> Edit
                   </button>
                   {statusNorm === 'active' && (
@@ -162,7 +172,7 @@ export default function BuyBoxesView({ onCreate, onEdit, onPause }) {
                     <button className="btn sm" style={{ flex: 1 }} disabled>Activating…</button>
                   )}
                   {statusNorm === 'coverage failed' && (
-                    <button className="btn sm" style={{ flex: 1, color: '#FF7378', borderColor: 'rgba(229,72,77,0.4)' }}>
+                    <button className="btn sm" style={{ flex: 1, color: '#FF7378', borderColor: 'rgba(229,72,77,0.4)' }} onClick={() => onSettings?.(b)}>
                       Edit Geo
                     </button>
                   )}

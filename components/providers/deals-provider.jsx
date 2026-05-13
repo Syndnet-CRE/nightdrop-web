@@ -212,6 +212,20 @@ export function DealsProvider({ children }) {
     [request]
   )
 
+  const deleteBuyBox = useCallback(
+    async (buyBoxId) => {
+      try {
+        await request(`/api/dealfeed/buy-boxes/${buyBoxId}`, { method: 'DELETE' })
+        setBuyBoxes((prev) => prev.filter((box) => box.id !== buyBoxId))
+        return true
+      } catch (err) {
+        setError(err.message)
+        return false
+      }
+    },
+    [request]
+  )
+
   const fetchDealNotes = useCallback(
     async (dealId) => {
       try {
@@ -269,6 +283,7 @@ export function DealsProvider({ children }) {
         fetchContacts,
         logContact,
         patchBuyBox,
+        deleteBuyBox,
         fetchDealNotes,
         createDealNote,
       }}
