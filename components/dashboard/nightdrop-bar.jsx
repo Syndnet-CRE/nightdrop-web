@@ -13,6 +13,7 @@ export default function NightdropBar({ view, onSetView, onShowWizard, onLogout }
     { id: 'map', label: 'Map', icon: '🗺️' },
     { id: 'boxes', label: 'Buy Boxes', icon: '📦' },
     { id: 'settings', label: 'Settings', icon: '⚙️' },
+    ...(isAdmin ? [{ id: 'accounts', label: 'Accounts', icon: '👤' }] : []),
   ]
 
   return (

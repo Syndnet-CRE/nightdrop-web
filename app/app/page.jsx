@@ -8,6 +8,7 @@ import BuyBoxesView from '@/components/dashboard/views/buy-boxes-view'
 import SettingsView from '@/components/dashboard/views/settings-view'
 import InviteView from '@/components/dashboard/views/invite-view'
 import AdminView from '@/components/dashboard/views/admin-view'
+import AccountsView from '@/components/dashboard/views/accounts-view'
 import NightdropBar from '@/components/dashboard/nightdrop-bar'
 import ConfigurationOverlay from '@/components/dashboard/configuration-overlay'
 import { BuyBoxEditModal } from '@/components/dashboard/buy-box-edit-modal'
@@ -37,6 +38,8 @@ export default function AppPage() {
         )
       case 'settings':
         return <SettingsView />
+      case 'accounts':
+        return <AccountsView />
       case 'invites':
         return <InviteView />
       case 'admin':
