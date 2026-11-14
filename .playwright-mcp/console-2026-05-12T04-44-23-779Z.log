@@ -1,0 +1,161 @@
+[     496ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25022
+[     626ms] [WARNING] Image with src "/logos/nightdrop-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio. @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/shared/lib/utils/warn-once.js:15
+[ 3722588ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3722952ms] [LOG] [Fast Refresh] done in 365ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[ 3726430ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3726627ms] [LOG] [Fast Refresh] done in 196ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[ 3737622ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3737886ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3737889ms] [LOG] [Fast Refresh] done in 2ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[ 3737919ms] [LOG] [Fast Refresh] done in 32ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[ 3771463ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3771625ms] [LOG] [Fast Refresh] done in 162ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[ 3785633ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3786085ms] [LOG] [Fast Refresh] done in 452ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[ 3811689ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3811979ms] Error: useWaitlist must be used within WaitlistProvider
+    at useWaitlist (webpack-internal:///(app-pages-browser)/./components/waitlist-context.tsx:35:21)
+    at Header (webpack-internal:///(app-pages-browser)/./components/header.tsx:23:103)
+    at HeroSection (rsc://React/Server/webpack-internal:///(rsc)/./components/hero-section.tsx?131:1008:102)
+    at LandingPage (rsc://React/Server/webpack-internal:///(rsc)/./app/page.tsx?0:47:100)
+[ 3811983ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:114
+[ 3812567ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25022
+[ 3812693ms] [WARNING] Image with src "/logos/nightdrop-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio. @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/shared/lib/utils/warn-once.js:15
+[ 3817239ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3817470ms] [LOG] [Fast Refresh] done in 232ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[ 3817479ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3817763ms] [LOG] [Fast Refresh] done in 283ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[ 3817823ms] Error: SIGNUP_URL is not defined
+    at HeroSection (webpack-internal:///(app-pages-browser)/./components/hero-section.tsx:1074:31)
+    at LandingPage (rsc://React/Server/webpack-internal:///(rsc)/./app/page.tsx?0:47:100)
+[ 3817823ms] Error: SIGNUP_URL is not defined
+    at HeroSection (webpack-internal:///(app-pages-browser)/./components/hero-section.tsx:1074:31)
+    at RedirectBoundary (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/redirect-boundary.js:85:46)
+    at OuterLayoutRouter (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/layout-router.js:457:69)
+[ 3817823ms] Error: SIGNUP_URL is not defined
+    at HeroSection (webpack-internal:///(app-pages-browser)/./components/hero-section.tsx:1074:31)
+    at HTTPAccessFallbackBoundary (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/http-access-fallback/error-boundary.js:105:50)
+    at OuterLayoutRouter (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/layout-router.js:453:65)
+[ 3817823ms] Error: SIGNUP_URL is not defined
+    at HeroSection (webpack-internal:///(app-pages-browser)/./components/hero-section.tsx:1074:31)
+    at RedirectBoundary (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/redirect-boundary.js:85:46)
+    at Router (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/app-router.js:402:54)
+    at AppRouter (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/app-router.js:467:53)
+    at ServerRoot (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:140:54)
+[ 3817823ms] Error: SIGNUP_URL is not defined
+    at HeroSection (webpack-internal:///(app-pages-browser)/./components/hero-section.tsx:1074:31)
+    at HTTPAccessFallbackBoundary (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/http-access-fallback/error-boundary.js:105:50)
+    at DevRootHTTPAccessFallbackBoundary (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/dev-root-http-access-fallback-boundary.js:38:46)
+    at Router (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/app-router.js:420:57)
+    at AppRouter (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/app-router.js:467:53)
+    at ServerRoot (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:140:54)
+[ 3817889ms] Error: SIGNUP_URL is not defined
+    at HeroSection (webpack-internal:///(app-pages-browser)/./components/hero-section.tsx:1074:31)
+    at LandingPage (rsc://React/Server/webpack-internal:///(rsc)/./app/page.tsx?0:47:100)
+[ 3826477ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3826737ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:114
+[ 3827288ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25022
+[ 3827410ms] [WARNING] Image with src "/logos/nightdrop-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio. @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/shared/lib/utils/warn-once.js:15
+[ 3830758ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3830939ms] [LOG] [Fast Refresh] done in 181ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[ 3830947ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3831119ms] [LOG] [Fast Refresh] done in 172ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[ 3831189ms] Error: Link is not defined
+    at CTASection (webpack-internal:///(app-pages-browser)/./components/cta-section.tsx:350:105)
+    at LandingPage (rsc://React/Server/webpack-internal:///(rsc)/./app/page.tsx?34:214:106)
+[ 3831190ms] Error: Link is not defined
+    at CTASection (webpack-internal:///(app-pages-browser)/./components/cta-section.tsx:350:105)
+    at RedirectBoundary (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/redirect-boundary.js:85:46)
+    at OuterLayoutRouter (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/layout-router.js:457:69)
+[ 3831190ms] Error: Link is not defined
+    at CTASection (webpack-internal:///(app-pages-browser)/./components/cta-section.tsx:350:105)
+    at HTTPAccessFallbackBoundary (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/http-access-fallback/error-boundary.js:105:50)
+    at OuterLayoutRouter (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/layout-router.js:453:65)
+[ 3831190ms] Error: Link is not defined
+    at CTASection (webpack-internal:///(app-pages-browser)/./components/cta-section.tsx:350:105)
+    at RedirectBoundary (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/redirect-boundary.js:85:46)
+    at Router (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/app-router.js:402:54)
+    at AppRouter (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/app-router.js:467:53)
+    at ServerRoot (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:140:54)
+[ 3831190ms] Error: Link is not defined
+    at CTASection (webpack-internal:///(app-pages-browser)/./components/cta-section.tsx:350:105)
+    at HTTPAccessFallbackBoundary (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/http-access-fallback/error-boundary.js:105:50)
+    at DevRootHTTPAccessFallbackBoundary (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/dev-root-http-access-fallback-boundary.js:38:46)
+    at Router (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/app-router.js:420:57)
+    at AppRouter (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/app-router.js:467:53)
+    at ServerRoot (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/app-index.js:140:54)
+[ 3831272ms] Error: Link is not defined
+    at CTASection (webpack-internal:///(app-pages-browser)/./components/cta-section.tsx:350:105)
+    at LandingPage (rsc://React/Server/webpack-internal:///(rsc)/./app/page.tsx?34:214:106)
+[ 3839366ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3839606ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:114
+[ 3840180ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25022
+[ 3840295ms] [WARNING] Image with src "/logos/nightdrop-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio. @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/shared/lib/utils/warn-once.js:15
+[ 3844406ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3844955ms] [LOG] [Fast Refresh] done in 548ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[ 3845031ms] Error: SIGNUP_URL is not defined
+    at eval (webpack-internal:///(app-pages-browser)/./components/pricing-section.tsx:29:21)
+    at (app-pages-browser)/./components/pricing-section.tsx (http://localhost:3456/_next/static/webpack/app/page.5f21aac90a497402.hot-update.js:18:1)
+    at options.factory (http://localhost:3456/_next/static/chunks/webpack.js?v=1778564903418:712:31)
+    at __webpack_require__ (http://localhost:3456/_next/static/chunks/webpack.js?v=1778564903418:37:33)
+    at fn (http://localhost:3456/_next/static/chunks/webpack.js?v=1778564903418:369:21)
+    at requireModule (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-server-dom-webpack/cjs/react-server-dom-webpack-client.browser.development.js:121:27)
+    at initializeModuleChunk (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-server-dom-webpack/cjs/react-server-dom-webpack-client.browser.development.js:1093:21)
+    at readChunk (webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-server-dom-webpack/cjs/react-server-dom-webpack-client.browser.development.js:967:11)
+    at AnimatedSection (webpack-internal:///(app-pages-browser)/./components/animated-section.tsx:11:87)
+    at LandingPage (rsc://React/Server/webpack-internal:///(rsc)/./app/page.tsx?219:169:92)
+[ 3848057ms] [WARNING] The resource http://localhost:3456/_next/static/css/app/layout.css?v=1778564908685 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3456/:0
+[ 3864992ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3865227ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:114
+[ 3865574ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3456/:0
+[ 3865725ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25022
+[ 3865870ms] Error: Link is not defined
+    at eval (webpack-internal:///(app-pages-browser)/./components/pricing-section.tsx:199:109)
+    at Array.map (<anonymous>)
+    at PricingSection (webpack-internal:///(app-pages-browser)/./components/pricing-section.tsx:106:40)
+    at LandingPage (rsc://React/Server/webpack-internal:///(rsc)/./app/page.tsx?187:173:106)
+[ 3865895ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3456/favicon.ico:0
+[ 3868898ms] [WARNING] The resource http://localhost:3456/_next/static/css/app/layout.css?v=1778564929041 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3456/:0
+[ 3991499ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3991875ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:114
+[ 3992391ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3456/:0
+[ 3992494ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25022
+[ 3992635ms] Error: Link is not defined
+    at eval (webpack-internal:///(app-pages-browser)/./components/pricing-section.tsx:199:109)
+    at Array.map (<anonymous>)
+    at PricingSection (webpack-internal:///(app-pages-browser)/./components/pricing-section.tsx:106:40)
+    at LandingPage (rsc://React/Server/webpack-internal:///(rsc)/./app/page.tsx?187:173:106)
+[ 3995037ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 3995200ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:114
+[ 3995672ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3456/:0
+[ 3995768ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25022
+[ 3995905ms] Error: Link is not defined
+    at eval (webpack-internal:///(app-pages-browser)/./components/pricing-section.tsx:204:109)
+    at Array.map (<anonymous>)
+    at PricingSection (webpack-internal:///(app-pages-browser)/./components/pricing-section.tsx:111:40)
+    at LandingPage (rsc://React/Server/webpack-internal:///(rsc)/./app/page.tsx?187:173:106)
+[ 3998925ms] [WARNING] The resource http://localhost:3456/_next/static/css/app/layout.css?v=1778565059098 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3456/:0
+[ 3999794ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 4000079ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:114
+[ 4000549ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25022
+[ 4000667ms] [WARNING] Image with src "/logos/nightdrop-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio. @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/shared/lib/utils/warn-once.js:15
+[ 4011808ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 4012049ms] Error: SIGNUP_URL is not defined
+    at FooterSection (webpack-internal:///(app-pages-browser)/./components/footer-section.tsx:158:47)
+    at LandingPage (rsc://React/Server/webpack-internal:///(rsc)/./app/page.tsx?195:227:106)
+[ 4012054ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:114
+[ 4012550ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3456/:0
+[ 4012645ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25022
+[ 4012796ms] Error: SIGNUP_URL is not defined
+    at FooterSection (webpack-internal:///(app-pages-browser)/./components/footer-section.tsx:158:47)
+    at LandingPage (rsc://React/Server/webpack-internal:///(rsc)/./app/page.tsx?195:227:106)
+[ 4015816ms] [WARNING] The resource http://localhost:3456/_next/static/css/app/layout.css?v=1778565076039 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:3456/:0
+[ 4017106ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[ 4017306ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:114
+[ 4017798ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25022
+[ 4017913ms] [WARNING] Image with src "/logos/nightdrop-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio. @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/shared/lib/utils/warn-once.js:15
+[30370633ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:196
+[30370741ms] [LOG] [Fast Refresh] done in 109ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[30371149ms] [ERROR] Refused to apply style from 'http://localhost:3456/_next/static/css/app/layout.css?v=1778591434727' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3456/:0
+[30371205ms] [ERROR] Refused to apply style from 'http://localhost:3456/_next/static/css/app/layout.css?v=1778591434727' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3456/:0
+[30371262ms] Event

@@ -1,0 +1,287 @@
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e5]:
+        - link "Nightdrop BETA" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e7]: Nightdrop
+          - generic [ref=e8]: BETA
+        - navigation [ref=e9]:
+          - link "How It Works" [ref=e10] [cursor=pointer]:
+            - /url: "#features"
+          - link "Pricing" [ref=e11] [cursor=pointer]:
+            - /url: "#pricing"
+          - link "FAQ" [ref=e12] [cursor=pointer]:
+            - /url: "#faq"
+        - button "Join Waitlist" [ref=e14] [cursor=pointer]
+      - generic [ref=e16]:
+        - generic [ref=e19]: Now in private beta
+        - heading "Distressed deals. Delivered daily." [level=1] [ref=e20]:
+          - text: Distressed deals.
+          - text: Delivered daily.
+        - paragraph [ref=e21]: Set your buy box once. Nightdrop screens thousands of properties against your criteria and surfaces matches in your feed every morning.
+        - button "Join the Waitlist" [ref=e23] [cursor=pointer]:
+          - text: Join the Waitlist
+          - img [ref=e24]
+        - generic [ref=e26]:
+          - generic [ref=e27]:
+            - generic [ref=e28]: 500+
+            - generic [ref=e29]: Properties matched weekly
+          - generic [ref=e30]:
+            - generic [ref=e31]: 12+
+            - generic [ref=e32]: Data sources aggregated
+          - generic [ref=e33]:
+            - generic [ref=e34]: < 24h
+            - generic [ref=e35]: From listing to your feed
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - generic [ref=e39]: Deal Match
+          - generic [ref=e40]: Score 91
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - generic [ref=e43]: 4821 Commerce Dr
+            - generic [ref=e44]: Austin, TX 78745
+          - generic [ref=e45]:
+            - generic [ref=e46]:
+              - generic [ref=e47]: Asset Type
+              - generic [ref=e48]: Light Industrial
+            - generic [ref=e49]:
+              - generic [ref=e50]: Est. Value
+              - generic [ref=e51]: $2.4M
+            - generic [ref=e52]:
+              - generic [ref=e53]: Tax Delinquent
+              - generic [ref=e54]: Yes — 3yr
+            - generic [ref=e55]:
+              - generic [ref=e56]: Owner
+              - generic [ref=e57]: Absentee / OOS
+          - generic [ref=e61]: Match score
+    - generic [ref=e64]:
+      - generic [ref=e65]:
+        - paragraph [ref=e66]: How It Works
+        - heading "Everything you need. Nothing you don't." [level=2] [ref=e67]:
+          - text: Everything you need.
+          - text: Nothing you don't.
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - generic [ref=e70]: Smart Matching
+          - heading "Your buy box. Their distress." [level=3] [ref=e71]
+          - paragraph [ref=e72]: Define your criteria — asset class, geography, price range, distress type. Nightdrop runs it against thousands of properties nightly and surfaces only the ones that match.
+        - generic [ref=e73]:
+          - generic [ref=e74]: Deal Intelligence
+          - heading "Actual data. Not leads." [level=3] [ref=e75]
+          - paragraph [ref=e76]: Every match comes with tax records, ownership chain, delinquency history, comp analysis, and distress signals. You see the full picture before you make a call.
+        - generic [ref=e77]:
+          - generic [ref=e78]: Map View
+          - heading "Find it on the map." [level=3] [ref=e79]
+          - paragraph [ref=e80]: Your matched deals plotted on an interactive map. Filter by score, status, or signal. Identify geographic clusters before anyone else is looking.
+        - generic [ref=e81]:
+          - generic [ref=e82]: Pipeline
+          - heading "Track your pipeline." [level=3] [ref=e83]
+          - paragraph [ref=e84]: Mark deals hot, dead, or in LOI. Log calls and contacts. Every deal has a status and a history — so nothing falls through the cracks.
+    - generic [ref=e86]:
+      - generic [ref=e87]:
+        - paragraph [ref=e88]: Pricing
+        - heading "Simple, transparent pricing." [level=2] [ref=e89]
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - generic [ref=e92]:
+            - generic [ref=e93]: Starter
+            - generic [ref=e94]:
+              - generic [ref=e95]: $299
+              - generic [ref=e96]: /mo
+            - paragraph [ref=e97]: Solo investors getting started with systematic deal sourcing.
+          - list [ref=e98]:
+            - listitem [ref=e99]:
+              - img [ref=e100]
+              - text: 3 active buy boxes
+            - listitem [ref=e102]:
+              - img [ref=e103]
+              - text: 500 deal matches/month
+            - listitem [ref=e105]:
+              - img [ref=e106]
+              - text: Full deal data on every match
+            - listitem [ref=e108]:
+              - img [ref=e109]
+              - text: Map view
+            - listitem [ref=e111]:
+              - img [ref=e112]
+              - text: Email support
+          - button "Get Started" [ref=e114] [cursor=pointer]
+        - generic [ref=e115]:
+          - generic [ref=e116]: Most Popular
+          - generic [ref=e117]:
+            - generic [ref=e118]: Professional
+            - generic [ref=e119]:
+              - generic [ref=e120]: $999
+              - generic [ref=e121]: /mo
+            - paragraph [ref=e122]: Active buyers who want every edge in their market.
+          - list [ref=e123]:
+            - listitem [ref=e124]:
+              - img [ref=e125]
+              - text: Unlimited buy boxes
+            - listitem [ref=e127]:
+              - img [ref=e128]
+              - text: 5,000 deal matches/month
+            - listitem [ref=e130]:
+              - img [ref=e131]
+              - text: Priority matching
+            - listitem [ref=e133]:
+              - img [ref=e134]
+              - text: Team seats (up to 5)
+            - listitem [ref=e136]:
+              - img [ref=e137]
+              - text: Pipeline tracking
+            - listitem [ref=e139]:
+              - img [ref=e140]
+              - text: Priority support
+          - button "Get Started" [ref=e142] [cursor=pointer]
+        - generic [ref=e143]:
+          - generic [ref=e144]:
+            - generic [ref=e145]: Enterprise
+            - generic [ref=e147]: Custom
+            - paragraph [ref=e148]: Large portfolios and acquisition teams with specific workflow needs.
+          - list [ref=e149]:
+            - listitem [ref=e150]:
+              - img [ref=e151]
+              - text: Unlimited everything
+            - listitem [ref=e153]:
+              - img [ref=e154]
+              - text: Custom data integrations
+            - listitem [ref=e156]:
+              - img [ref=e157]
+              - text: CRM sync
+            - listitem [ref=e159]:
+              - img [ref=e160]
+              - text: Dedicated account manager
+            - listitem [ref=e162]:
+              - img [ref=e163]
+              - text: SLA guarantee
+          - button "Talk to Sales" [ref=e165] [cursor=pointer]
+    - generic [ref=e167]:
+      - generic [ref=e168]:
+        - paragraph [ref=e169]: FAQ
+        - heading "Common questions." [level=2] [ref=e170]
+      - generic [ref=e171]:
+        - generic [ref=e172]:
+          - button "How does deal matching work?" [ref=e173] [cursor=pointer]:
+            - generic [ref=e174]: How does deal matching work?
+            - img [ref=e175]
+          - paragraph [ref=e177]: "You define your buy box: asset class, geography, price range, distress type. Nightdrop runs your criteria against thousands of properties nightly. Matches appear in your feed the next morning with full data attached."
+        - button "What data comes with each deal?" [ref=e179] [cursor=pointer]:
+          - generic [ref=e180]: What data comes with each deal?
+          - img [ref=e181]
+        - button "What markets are covered?" [ref=e184] [cursor=pointer]:
+          - generic [ref=e185]: What markets are covered?
+          - img [ref=e186]
+        - button "How often is data updated?" [ref=e189] [cursor=pointer]:
+          - generic [ref=e190]: How often is data updated?
+          - img [ref=e191]
+        - button "Can I use this with my team?" [ref=e194] [cursor=pointer]:
+          - generic [ref=e195]: Can I use this with my team?
+          - img [ref=e196]
+        - button "Is there a free trial?" [ref=e199] [cursor=pointer]:
+          - generic [ref=e200]: Is there a free trial?
+          - img [ref=e201]
+    - generic [ref=e204]:
+      - generic [ref=e205]:
+        - generic [ref=e206]:
+          - generic [ref=e208]: Nightdrop
+          - paragraph [ref=e209]: Deal flow for CRE investors. Set your box. Get your deals.
+        - generic [ref=e210]:
+          - paragraph [ref=e211]: Product
+          - list [ref=e212]:
+            - listitem [ref=e213]:
+              - link "How It Works" [ref=e214] [cursor=pointer]:
+                - /url: "#features"
+            - listitem [ref=e215]:
+              - link "Pricing" [ref=e216] [cursor=pointer]:
+                - /url: "#pricing"
+            - listitem [ref=e217]:
+              - button "Join Waitlist" [ref=e218] [cursor=pointer]
+        - generic [ref=e219]:
+          - paragraph [ref=e220]: Company
+          - list [ref=e221]:
+            - listitem [ref=e222]:
+              - link "About" [ref=e223] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e224]:
+              - link "Blog" [ref=e225] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e226]:
+              - link "Contact" [ref=e227] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e228]:
+          - paragraph [ref=e229]: Legal
+          - list [ref=e230]:
+            - listitem [ref=e231]:
+              - link "Privacy" [ref=e232] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e233]:
+              - link "Terms" [ref=e234] [cursor=pointer]:
+                - /url: "#"
+      - generic [ref=e235]:
+        - paragraph [ref=e236]: © 2026 Nightdrop. All rights reserved.
+        - generic [ref=e237]:
+          - link "Twitter" [ref=e238] [cursor=pointer]:
+            - /url: "#"
+          - link "LinkedIn" [ref=e239] [cursor=pointer]:
+            - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=e246] [cursor=pointer]:
+    - img [ref=e247]
+  - alert [ref=e240]
+  - dialog "Join the Waitlist" [ref=e251]:
+    - generic [ref=e252]:
+      - generic [ref=e253]:
+        - heading "Join the Waitlist" [level=2] [ref=e254]
+        - paragraph [ref=e255]: We onboard by market. You'll hear from us when your region opens.
+      - button "Close" [ref=e256] [cursor=pointer]:
+        - img [ref=e257]
+    - generic [ref=e260]:
+      - generic [ref=e261]:
+        - generic [ref=e262]:
+          - generic [ref=e263]: First Name
+          - textbox "Brady" [active] [ref=e264]
+        - generic [ref=e265]:
+          - generic [ref=e266]: Last Name
+          - textbox "Irwin" [ref=e267]
+      - generic [ref=e268]:
+        - generic [ref=e269]: Email
+        - textbox "you@example.com" [ref=e270]
+      - generic [ref=e271]:
+        - generic [ref=e272]: I am a...
+        - combobox [ref=e273]:
+          - option "Select your role" [disabled] [selected]
+          - option "Investor"
+          - option "Wholesaler"
+          - option "Residential Investor"
+          - option "Commercial Investor"
+          - option "Broker/Agent"
+          - option "Land Developer"
+          - option "Land Wholesaler"
+      - generic [ref=e274]:
+        - generic [ref=e275]: Primary Market
+        - textbox "e.g. Dallas, TX" [ref=e276]
+      - generic [ref=e277]:
+        - generic [ref=e278]: Monthly Deal Volume
+        - combobox [ref=e279]:
+          - option "Select volume" [disabled] [selected]
+          - option "0 — just getting started"
+          - option "1–5"
+          - option "6–20"
+          - option "20+"
+      - generic [ref=e280]:
+        - generic [ref=e281]: How Did You Hear About Us
+        - combobox [ref=e282]:
+          - option "Select one" [disabled] [selected]
+          - option "Facebook Group"
+          - option "LinkedIn"
+          - option "Instagram"
+          - option "YouTube"
+          - option "Google Search"
+          - option "Referral"
+          - option "Podcast"
+          - option "Other"
+      - generic [ref=e283] [cursor=pointer]:
+        - checkbox "I agree to receive email updates from Nightdrop. We'll only reach out when your access is ready." [ref=e285]
+        - generic [ref=e287]: I agree to receive email updates from Nightdrop. We'll only reach out when your access is ready.
+      - button "Request Access" [ref=e288] [cursor=pointer]

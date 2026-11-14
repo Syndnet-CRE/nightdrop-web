@@ -1,0 +1,11 @@
+[     491ms] [ERROR] Refused to apply style from 'http://localhost:3456/_next/static/css/app/layout.css?v=1778682357062' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ http://localhost:3456/:0
+[     521ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3456/_next/static/chunks/webpack.js?v=1778682357062:0
+[     521ms] [ERROR] Refused to execute script from 'http://localhost:3456/_next/static/chunks/webpack.js?v=1778682357062' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ http://localhost:3456/:0
+[     577ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3456/_next/static/chunks/app-pages-internals.js:0
+[     577ms] [ERROR] Refused to execute script from 'http://localhost:3456/_next/static/chunks/app-pages-internals.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ http://localhost:3456/:0
+[     578ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3456/_next/static/chunks/main-app.js?v=1778682357062:0
+[     578ms] [ERROR] Refused to execute script from 'http://localhost:3456/_next/static/chunks/main-app.js?v=1778682357062' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ http://localhost:3456/:0
+[     579ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3456/_next/static/chunks/app/page.js:0
+[     579ms] [ERROR] Refused to execute script from 'http://localhost:3456/_next/static/chunks/app/page.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ http://localhost:3456/:0
+[     579ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3456/_next/static/chunks/app/layout.js:0
+[     579ms] [ERROR] Refused to execute script from 'http://localhost:3456/_next/static/chunks/app/layout.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ http://localhost:3456/:0

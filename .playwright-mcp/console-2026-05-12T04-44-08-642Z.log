@@ -1,0 +1,5 @@
+[    2335ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js:25022
+[    2496ms] [WARNING] Image with src "/logos/nightdrop-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio. @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/shared/lib/utils/warn-once.js:15
+[    2592ms] [LOG] [Fast Refresh] done in 1778561051233ms @ webpack-internal:///(app-pages-browser)/./node_modules/next/dist/client/components/react-dev-overlay/utils/report-hmr-latency.js:13
+[    2961ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3456/icon.svg:0
+[    3014ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3456/icon-light-32x32.png:0

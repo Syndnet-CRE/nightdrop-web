@@ -1,0 +1,706 @@
+- generic [ref=e3]:
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - img [ref=e7]
+      - generic [ref=e803]:
+        - img "Nightdrop" [ref=e805]
+        - navigation [ref=e806]:
+          - link "How It Works" [ref=e807] [cursor=pointer]:
+            - /url: "#features-section"
+          - link "Pricing" [ref=e808] [cursor=pointer]:
+            - /url: "#pricing-section"
+          - link "FAQ" [ref=e809] [cursor=pointer]:
+            - /url: "#faq-section"
+        - button "Join Waitlist" [ref=e811] [cursor=pointer]
+      - generic [ref=e812]:
+        - generic [ref=e813]: We run agents every night · Nationwide
+        - heading "Deploy your acquisition agent." [level=1] [ref=e814]:
+          - generic [ref=e815]: Deploy your
+          - generic [ref=e816]: acquisition agent.
+        - paragraph [ref=e817]: 160M+ parcels scanned every night · matched to your buy box · delivered to your inbox every morning.
+      - generic [ref=e818]:
+        - button "Submit your buy box before midnight →" [ref=e819] [cursor=pointer]
+        - link "See how it works" [ref=e820] [cursor=pointer]:
+          - /url: "#features-section"
+          - button "See how it works" [ref=e821]
+      - paragraph [ref=e822]: 3-day free trial · Card required · Cancel anytime
+    - img "Dashboard preview" [ref=e826]
+  - generic [ref=e828]:
+    - generic [ref=e829]:
+      - generic [ref=e830]: The off-market opportunity
+      - generic [ref=e831]: is massive
+    - generic [ref=e832]:
+      - generic [ref=e833]:
+        - generic [ref=e834]: $0.0T
+        - generic [ref=e835]: Estimated annual off-market CRE transaction volume
+      - generic [ref=e836]:
+        - generic [ref=e837]: 0%+
+        - generic [ref=e838]: Of institutional acquisitions start with off-market sourcing
+      - generic [ref=e839]:
+        - generic [ref=e840]: 1hrs
+        - generic [ref=e841]: Average investor time spent weekly on deal sourcing that could be automated
+  - generic [ref=e844]:
+    - generic [ref=e845]:
+      - generic [ref=e846]: How we're different
+      - heading "Stop doing the work. Start getting the deals." [level=2] [ref=e847]
+      - paragraph [ref=e848]: PropStream and BatchLeads make you the operator. So does hiring a VA — they're just running the same tools while you pay them, train them, and manage them. Nightdrop eliminates all of that.
+    - generic [ref=e850]:
+      - generic [ref=e851]: What you need
+      - img "Nightdrop" [ref=e853]
+      - generic [ref=e854]:
+        - generic [ref=e855]: The old way
+        - generic [ref=e856]: You or a VA on PropStream / BatchLeads
+      - generic [ref=e857]:
+        - generic [ref=e858]: Deals delivered to your inbox daily
+        - generic [ref=e859]:
+          - img [ref=e860]
+          - generic [ref=e862]: Every morning by 6 AM
+        - generic [ref=e863]:
+          - img [ref=e864]
+          - generic [ref=e867]: You or your VA pulls the list manually
+      - generic [ref=e868]:
+        - generic [ref=e869]: Distress signal on every property
+        - generic [ref=e870]:
+          - img [ref=e871]
+          - generic [ref=e873]: Hard gate, required to ship
+        - generic [ref=e874]:
+          - img [ref=e875]
+          - generic [ref=e878]: You filter, you decide
+      - generic [ref=e879]:
+        - generic [ref=e880]: AI-written deal brief per property
+        - generic [ref=e881]:
+          - img [ref=e882]
+          - generic [ref=e884]: Full analysis on every deal
+        - generic [ref=e885]:
+          - img [ref=e886]
+          - generic [ref=e889]: Raw spreadsheet rows
+      - generic [ref=e890]:
+        - generic [ref=e891]: Runs automatically every night
+        - generic [ref=e892]:
+          - img [ref=e893]
+          - generic [ref=e895]: Set once, done forever
+        - generic [ref=e896]:
+          - img [ref=e897]
+          - generic [ref=e900]: Manual every single time
+      - generic [ref=e901]:
+        - generic [ref=e902]: Deal brief written up per match
+        - generic [ref=e903]:
+          - img [ref=e904]
+          - generic [ref=e906]: Included with every match
+        - generic [ref=e907]:
+          - img [ref=e908]
+          - generic [ref=e911]: Raw spreadsheet rows, no analysis
+      - generic [ref=e912]:
+        - generic [ref=e913]: No hiring, training, or managing
+        - generic [ref=e914]:
+          - img [ref=e915]
+          - generic [ref=e917]: Zero human dependencies
+        - generic [ref=e918]:
+          - img [ref=e919]
+          - generic [ref=e922]: Find a VA on Fiverr · train them · review their work · pay $15/hr
+      - generic [ref=e923]:
+        - generic [ref=e924]: Total monthly cost
+        - generic [ref=e925]:
+          - img [ref=e926]
+          - generic [ref=e928]: $149 flat
+        - generic [ref=e929]:
+          - img [ref=e930]
+          - generic [ref=e933]: $99 PropStream + $15/hr VA + hours of manual screening
+  - generic [ref=e936]:
+    - generic [ref=e939]:
+      - heading "How Nightdrop Works" [level=2] [ref=e940]
+      - paragraph [ref=e941]: Fully autonomous. No dashboards to check. No searches to run. Your buy box runs every night and deals land in your inbox every morning.
+    - generic [ref=e942]:
+      - generic [ref=e943]:
+        - generic [ref=e947]:
+          - heading "Submit your buy box." [level=3] [ref=e948]
+          - paragraph [ref=e949]: Tell us your asset class, geography, lot size, value range, and distress criteria. Takes five minutes.
+        - img "Buy box submission card showing an active nightly run" [ref=e951]:
+          - generic [ref=e952]:
+            - generic [ref=e953]:
+              - generic [ref=e954]:
+                - generic [ref=e955]: Active
+                - generic [ref=e956]: "1"
+              - generic [ref=e957]: Running nightly
+            - generic [ref=e958]:
+              - generic [ref=e960]: industrial
+              - generic [ref=e961]: AZ
+          - generic [ref=e962]:
+            - generic [ref=e963]:
+              - generic [ref=e964]:
+                - generic [ref=e965]: Active
+                - generic [ref=e966]: "1"
+              - generic [ref=e967]: Running nightly · 47-day streak
+            - generic [ref=e968]:
+              - generic [ref=e970]:
+                - generic [ref=e971]: self storage
+                - img [ref=e972]
+              - generic [ref=e975]:
+                - img [ref=e976]
+                - generic [ref=e979]: TX · Austin metro · 5 counties
+              - generic [ref=e980]:
+                - generic [ref=e981]:
+                  - generic [ref=e982]: "176"
+                  - generic [ref=e983]: delivered
+                - generic [ref=e984]:
+                  - generic [ref=e985]: 92%
+                  - generic [ref=e986]: match rate
+                - generic [ref=e987]:
+                  - generic [ref=e988]: "0.84"
+                  - generic [ref=e989]: avg score
+                - generic [ref=e990]:
+                  - generic [ref=e991]: 30d
+                  - generic [ref=e992]: window
+              - generic [ref=e993]:
+                - generic [ref=e994]: M
+                - generic [ref=e995]: T
+                - generic [ref=e996]: W
+                - generic [ref=e997]: T
+                - generic [ref=e998]: F
+                - generic [ref=e999]: S
+                - generic [ref=e1000]: S
+              - generic [ref=e1001]:
+                - generic [ref=e1002]: Pause
+                - generic [ref=e1003]:
+                  - img [ref=e1004]
+                  - text: Edit
+              - generic [ref=e1006]:
+                - generic [ref=e1007]: Last brief delivered
+                - generic [ref=e1008]: Today · 5:59 AM
+      - generic [ref=e1009]:
+        - generic [ref=e1013]:
+          - heading "We run every night." [level=3] [ref=e1014]
+          - paragraph [ref=e1015]: Our pipeline runs at 2am against 160 million parcels with 900 data points per property, including geospatial, demographic, ownership, transaction, and assessment data.
+        - img "Buy box criteria flowing into a matched property" [ref=e1017]:
+          - generic [ref=e1020]:
+            - paragraph [ref=e1021]: "asset: \"self storage\""
+            - paragraph [ref=e1022]: "geo: \"TX · Austin\""
+            - paragraph [ref=e1023]: "lot_min: 1.5"
+            - paragraph [ref=e1024]: "value: 500K-2M"
+            - paragraph [ref=e1025]: "distress:"
+            - paragraph [ref=e1026]: "\"tax\","
+            - paragraph [ref=e1027]: "\"absentee\","
+            - paragraph [ref=e1028]: "\"lis_pendens\""
+            - paragraph [ref=e1029]: "schedule: \"02:00\""
+          - generic [ref=e1031]:
+            - generic [ref=e1032]:
+              - generic [ref=e1034]: 1402 Bouldin Ave
+              - generic [ref=e1035]: Austin, TX · Self storage
+              - generic [ref=e1036]:
+                - generic [ref=e1037]: Match
+                - generic [ref=e1038]: "0.91"
+            - generic [ref=e1039]: +27 more matched
+          - img [ref=e1042]
+      - generic [ref=e1043]:
+        - generic [ref=e1047]:
+          - heading "AI scores every match." [level=3] [ref=e1048]
+          - paragraph [ref=e1049]: Each property is evaluated against your exact criteria and assigned a confidence score. Weak matches are dropped before they ever reach you.
+        - img "Grid of evaluated properties with scoring overlays" [ref=e1051]:
+          - generic [ref=e1052]:
+            - generic [ref=e1053]:
+              - generic [ref=e1056]: 84%
+              - img [ref=e1059]
+              - generic [ref=e1062]: 91%
+            - generic [ref=e1064]:
+              - img [ref=e1066]
+              - generic [ref=e1073]: "0.78"
+              - img [ref=e1076]
+            - generic [ref=e1079]:
+              - img [ref=e1083]
+              - generic [ref=e1088]: 67%
+              - img [ref=e1091]
+            - generic [ref=e1093]:
+              - img [ref=e1096]
+              - generic [ref=e1100]: 92%
+              - img [ref=e1104]
+      - generic [ref=e1105]:
+        - generic [ref=e1109]:
+          - heading "Distress signals surfaced." [level=3] [ref=e1110]
+          - paragraph [ref=e1111]: Tax delinquency, absentee ownership, long holds with no permits, inactive entities. Every signal is flagged and explained.
+        - img "Distress signals tracker showing active signals" [ref=e1113]:
+          - generic [ref=e1114]:
+            - generic [ref=e1115]:
+              - img [ref=e1116]
+              - generic [ref=e1119]: Search distress signals
+            - generic [ref=e1120]:
+              - generic [ref=e1123]: Tax delinquent
+              - generic [ref=e1124]: Active
+            - generic [ref=e1125]:
+              - generic [ref=e1128]: Lis Pendens
+              - generic [ref=e1129]: Active
+            - generic [ref=e1130]:
+              - generic [ref=e1133]: Absentee owner
+              - generic [ref=e1134]: Active
+            - generic [ref=e1135]:
+              - generic [ref=e1138]: Inactive entity
+              - generic [ref=e1139]: Active
+            - generic [ref=e1140]:
+              - generic [ref=e1143]: Lien filed
+              - generic [ref=e1144]: Active
+            - generic [ref=e1148]: Long hold
+            - generic [ref=e1152]: Vacancy
+      - generic [ref=e1153]:
+        - generic [ref=e1157]:
+          - heading "Owner contact attached." [level=3] [ref=e1158]
+          - paragraph [ref=e1159]: Each deal brief includes the best available owner name, phone, and email, with confidence percentages on each.
+        - img "Distress signals and match score for a matched deal" [ref=e1161]:
+          - generic [ref=e1162]:
+            - generic [ref=e1163]:
+              - img [ref=e1165]
+              - generic [ref=e1167]:
+                - generic [ref=e1168]: Tax delinquent · 2 yrs unpaid
+                - generic [ref=e1169]: Patterson · distress signal · high severity
+            - generic [ref=e1170]:
+              - img [ref=e1172]
+              - generic [ref=e1174]:
+                - generic [ref=e1175]: "Match score: 9.1 / 10"
+                - generic [ref=e1176]: Patterson · buy box match · confirmed
+            - generic [ref=e1177]:
+              - img [ref=e1179]
+              - generic [ref=e1181]:
+                - generic [ref=e1182]: 4501 Riverside Dr
+                - generic [ref=e1183]: Patterson · public records · 100% confidence
+      - generic [ref=e1184]:
+        - generic [ref=e1188]:
+          - heading "In your inbox by 6am." [level=3] [ref=e1189]
+          - paragraph [ref=e1190]: Matched deals land every morning as a clean email digest. Read it, make calls, move on.
+        - img "Nightdrop pipeline console output with Read your digest button" [ref=e1192]:
+          - generic [ref=e1195]:
+            - paragraph [ref=e1196]: "[02:00:01.012] Nightly pipeline starting in us-east-1"
+            - paragraph [ref=e1197]: "[02:00:01.234] Loading active buy boxes from registry"
+            - paragraph [ref=e1198]: "[02:00:02.456] Querying parcel database (160M parcels)"
+            - paragraph [ref=e1199]: "[02:00:05.741] Applying geospatial filters"
+            - paragraph [ref=e1200]: "[02:00:08.979] Running 900-point property analysis"
+            - paragraph [ref=e1201]: "[02:14:34.945] Scoring matches against criteria"
+            - paragraph [ref=e1202]: "[02:18:30.561] Surfacing distress signals"
+            - paragraph [ref=e1203]: "[02:22:11.880] Resolving owner contacts"
+            - paragraph [ref=e1204]: "[02:25:30.914] Scoring distress signals on matched properties"
+            - paragraph [ref=e1205]: "[02:30:00.940] Filtering weak matches"
+            - paragraph [ref=e1206]: "[02:34:36.436] Building deal briefs"
+            - paragraph [ref=e1207]: "[02:35:45.436] Composing email digests"
+            - paragraph [ref=e1208]: "[02:36:37.265] Saved digest manifest"
+            - paragraph [ref=e1209]: "[02:38:39.076] Notification telemetry"
+            - paragraph [ref=e1210]: "[02:38:39.137] Nightdrop pipeline 1.0"
+            - paragraph [ref=e1211]: "[02:38:41.439] ✓ Matches scored"
+            - paragraph [ref=e1212]: "[02:38:53.979] ✓ Briefs generated"
+            - paragraph [ref=e1213]: "[05:55:00.585] Queued for delivery"
+            - paragraph [ref=e1214]: "[05:59:50.099] Digest sent to /inbox"
+            - paragraph [ref=e1215]: Nightdrop complete. Good morning.
+          - button "Read your digest" [ref=e1216] [cursor=pointer]:
+            - img [ref=e1217]
+            - text: Read your digest
+  - generic [ref=e1222]:
+    - generic [ref=e1223]:
+      - generic [ref=e1224]: The Midnight Run
+      - heading "While everyone else sleeps, your agent is working." [level=2] [ref=e1225]
+      - paragraph [ref=e1226]: Every subscriber's buy box is different. Every run produces a unique set of deals. No two inboxes look the same.
+    - generic [ref=e1227]:
+      - generic [ref=e1229]:
+        - generic [ref=e1231]: 12 AM
+        - generic [ref=e1234]: 1 AM
+        - generic [ref=e1237]: 2 AM
+        - generic [ref=e1240]: 3 AM
+        - generic [ref=e1243]: 4 AM
+        - generic [ref=e1246]: 5 AM
+        - generic [ref=e1249]: 6 AM
+      - generic [ref=e1251]:
+        - generic [ref=e1252]: "01"
+        - generic [ref=e1253]: 11:59 PM
+        - heading "Buy boxes lock in" [level=3] [ref=e1254]
+      - img [ref=e1265]
+      - paragraph [ref=e1268]: Any edits to your criteria take effect for tonight's run.
+      - generic [ref=e1269]:
+        - generic [ref=e1270]: "02"
+        - generic [ref=e1271]: 12:00 AM
+        - heading "Cross-check + warm-up" [level=3] [ref=e1272]
+      - paragraph [ref=e1283]: Configuring every active buy box, cross-checking criteria, and prepping the agent fleet for tonight's run.
+      - generic [ref=e1284]:
+        - generic [ref=e1285]: "03"
+        - generic [ref=e1286]: 2:00 AM
+        - heading "Agents run nationwide" [level=3] [ref=e1287]
+      - paragraph [ref=e1298]: 160M+ parcels queried against every active buy box simultaneously.
+      - generic [ref=e1299]:
+        - generic [ref=e1300]: "04"
+        - generic [ref=e1301]: 3:00 AM
+        - heading "Buy Box Gate applied" [level=3] [ref=e1302]
+      - paragraph [ref=e1313]: Properties scored against every criterion in your buy box. Anything below your match threshold is dropped.
+      - generic [ref=e1314]:
+        - generic [ref=e1315]: "05"
+        - generic [ref=e1316]: 4:30 AM
+        - heading "Briefs written, contacts attached" [level=3] [ref=e1317]
+      - paragraph [ref=e1328]: AI drafts a full deal brief per property. Distress signals scored. Ready in your inbox by morning.
+      - generic [ref=e1329]:
+        - generic [ref=e1330]: "06"
+        - generic [ref=e1331]: 6:00 AM
+        - heading "Deals in your inbox" [level=3] [ref=e1332]
+      - img [ref=e1343]
+      - paragraph [ref=e1346]: Before your first coffee. Ready to read, mark Hot or Not Relevant, and call.
+  - generic [ref=e1349]:
+    - generic [ref=e1350]:
+      - generic [ref=e1351]: Our Methodology
+      - heading "175B data points. Distress is the hard gate. The rest is up to you." [level=2] [ref=e1352]
+      - paragraph [ref=e1353]: Our agents train continuously on 160M+ parcels and ~900 attributes per property. We score every property against the distress signals you require and any other criteria you stack on top.
+    - generic [ref=e1354]:
+      - generic [ref=e1357]: Distress signals — the hard gate
+      - generic [ref=e1359]:
+        - generic [ref=e1360]:
+          - img [ref=e1362]
+          - heading "Tax Delinquency" [level=3] [ref=e1364]
+          - paragraph [ref=e1365]: Active delinquent tax record on file.
+        - generic [ref=e1366]:
+          - img [ref=e1368]
+          - heading "Pre-Foreclosure" [level=3] [ref=e1370]
+          - paragraph [ref=e1371]: Notice of Default or Lis Pendens filed.
+        - generic [ref=e1372]:
+          - img [ref=e1374]
+          - heading "Active Foreclosure" [level=3] [ref=e1380]
+          - paragraph [ref=e1381]: Notice of Trustee Sale on record.
+        - generic [ref=e1382]:
+          - img [ref=e1384]
+          - heading "Auction Scheduled" [level=3] [ref=e1388]
+          - paragraph [ref=e1389]: Confirmed courthouse or online auction date.
+    - generic [ref=e1390]:
+      - generic [ref=e1393]: Stack any of these on top
+      - generic [ref=e1395]:
+        - generic [ref=e1396]:
+          - generic [ref=e1397]:
+            - img [ref=e1398]
+            - generic [ref=e1402]: Asset class
+          - generic [ref=e1403]:
+            - img [ref=e1404]
+            - generic [ref=e1407]: Hold length
+          - generic [ref=e1408]:
+            - img [ref=e1409]
+            - generic [ref=e1415]: Absentee owner
+          - generic [ref=e1416]:
+            - img [ref=e1417]
+            - generic [ref=e1422]: Lot size
+          - generic [ref=e1423]:
+            - img [ref=e1424]
+            - generic [ref=e1429]: LLC complexity
+        - generic [ref=e1430]:
+          - generic [ref=e1431]:
+            - img [ref=e1432]
+            - generic [ref=e1435]: Mailing distance
+          - generic [ref=e1436]:
+            - img [ref=e1437]
+            - generic [ref=e1440]: No recent permits
+          - generic [ref=e1441]:
+            - img [ref=e1442]
+            - generic [ref=e1445]: Comp velocity
+          - generic [ref=e1446]:
+            - img [ref=e1447]
+            - generic [ref=e1452]: Zoning
+        - generic [ref=e1453]:
+          - generic [ref=e1454]:
+            - img [ref=e1455]
+            - generic [ref=e1457]: Opportunity Zone
+          - generic [ref=e1458]:
+            - img [ref=e1459]
+            - generic [ref=e1462]: Flood zone
+          - generic [ref=e1463]:
+            - img [ref=e1464]
+            - generic [ref=e1468]: + 900 attributes
+    - generic [ref=e1469]:
+      - paragraph [ref=e1470]: Distress sets the floor.
+      - paragraph [ref=e1471]: Your buy box sets the ceiling.
+      - paragraph [ref=e1472]: The agent scores the rest.
+  - generic [ref=e1475]:
+    - generic [ref=e1476]:
+      - generic [ref=e1477]: What you receive
+      - heading "Not a spreadsheet. A finished decision." [level=2] [ref=e1478]
+    - article [ref=e1479]:
+      - generic [ref=e1480]:
+        - generic [ref=e1481]:
+          - generic [ref=e1482]:
+            - heading "4711 Ridgeline Dr" [level=3] [ref=e1483]
+            - generic [ref=e1484]:
+              - img [ref=e1485]
+              - text: Round Rock, TX
+          - generic [ref=e1488]:
+            - img [ref=e1489]
+            - generic [ref=e1491]: "Match score: 9.1 / 10"
+        - generic [ref=e1492]:
+          - generic [ref=e1493]: Self-storage parcel
+          - generic [ref=e1494]: 1.4 acres
+          - generic [ref=e1495]: Tax delinquent
+          - generic [ref=e1496]: Absentee owner
+          - generic [ref=e1497]: 20+ year hold
+      - generic [ref=e1498]:
+        - paragraph [ref=e1499]: Mike Jones has held this property for 22 years. Tax delinquent since 2023 with two years of unpaid property taxes on file. Mailing address is 214 miles from the property — classic absentee profile. Last permit on file is from 2008, suggesting deferred capex. Assessed value $412K. Last sale price $187K (2003).
+        - generic [ref=e1500]:
+          - generic [ref=e1501]: Why this matched your buy box
+          - paragraph [ref=e1502]: Texas commercial parcel between 1–2 acres, 20+ year hold, active tax delinquency, absentee owner. Hits every criterion.
+        - generic [ref=e1503]:
+          - generic [ref=e1504]:
+            - img [ref=e1505]
+            - text: Distress signals
+          - generic [ref=e1507]:
+            - generic [ref=e1508]: Tax delinquent · 2 yrs
+            - generic [ref=e1509]: Absentee owner · 214 mi
+            - generic [ref=e1510]: No permits since 2008
+            - generic [ref=e1511]: 20+ yr hold
+    - paragraph [ref=e1512]: Every deal in your inbox reads like this. Distress signals explained. Match rationale. Property profile. Aerial map. Ready to act.
+  - generic [ref=e1518]:
+    - generic [ref=e1519]: I used to spend half my week driving for dollars and pulling lists. Nightdrop replaced all of that.
+    - generic [ref=e1520]:
+      - generic [ref=e1521]: JR
+      - generic [ref=e1522]:
+        - generic [ref=e1523]: Early Access Investor
+        - generic [ref=e1524]: Austin, TX
+  - generic [ref=e1526]:
+    - generic [ref=e1528]:
+      - heading "Pricing built for active investors" [level=2] [ref=e1529]
+      - paragraph [ref=e1530]: No contracts. Cancel anytime. Card required to start your trial.
+    - generic [ref=e1531]:
+      - generic [ref=e1533]:
+        - generic [ref=e1534]:
+          - generic [ref=e1535]: Starter
+          - generic [ref=e1536]:
+            - generic [ref=e1537]:
+              - generic [ref=e1538]: $149
+              - generic [ref=e1539]: /month
+            - generic [ref=e1540]: ~$1 per deal
+            - generic [ref=e1541]: One buy box. Up to 5 deals every morning.
+        - button "Start your trial" [ref=e1542] [cursor=pointer]:
+          - generic [ref=e1543]: Start your trial
+        - paragraph [ref=e1544]: 3-day free trial · 3 buy boxes · 15 deals
+        - generic [ref=e1545]:
+          - generic [ref=e1546]:
+            - img [ref=e1548]
+            - generic [ref=e1550]: 1 active buy box
+          - generic [ref=e1551]:
+            - img [ref=e1553]
+            - generic [ref=e1555]: Up to 5 deals per night
+          - generic [ref=e1556]:
+            - img [ref=e1558]
+            - generic [ref=e1560]: Add'l buy box +$50/mo
+          - generic [ref=e1561]:
+            - img [ref=e1563]
+            - generic [ref=e1565]: AI-written deal briefs
+          - generic [ref=e1566]:
+            - img [ref=e1568]
+            - generic [ref=e1570]: Distress signals + match threshold
+          - generic [ref=e1571]:
+            - img [ref=e1573]
+            - generic [ref=e1575]: Match reasoning + confidence score
+          - generic [ref=e1576]:
+            - img [ref=e1578]
+            - generic [ref=e1580]: Cancel anytime
+      - generic [ref=e1582]:
+        - generic [ref=e1583]:
+          - generic [ref=e1584]:
+            - text: Operator
+            - generic [ref=e1586]: Popular
+          - generic [ref=e1587]:
+            - generic [ref=e1588]:
+              - generic [ref=e1589]: $249
+              - generic [ref=e1590]: /month
+            - generic [ref=e1591]: Multi-market coverage
+            - generic [ref=e1592]: Up to 5 buy boxes. More markets, more deals every morning.
+        - button "Start your trial" [ref=e1593] [cursor=pointer]:
+          - generic [ref=e1594]: Start your trial
+        - paragraph [ref=e1595]: 3-day free trial · 5 buy boxes · 75 deals
+        - generic [ref=e1596]:
+          - generic [ref=e1597]:
+            - img [ref=e1599]
+            - generic [ref=e1601]: Up to 5 active buy boxes
+          - generic [ref=e1602]:
+            - img [ref=e1604]
+            - generic [ref=e1606]: Up to 25 deals per night (5 per box)
+          - generic [ref=e1607]:
+            - img [ref=e1609]
+            - generic [ref=e1611]: Everything in Starter
+          - generic [ref=e1612]:
+            - img [ref=e1614]
+            - generic [ref=e1616]: Multi-market dashboard
+          - generic [ref=e1617]:
+            - img [ref=e1619]
+            - generic [ref=e1621]: Priority support
+          - generic [ref=e1622]:
+            - img [ref=e1624]
+            - generic [ref=e1626]: Cancel anytime
+      - generic [ref=e1628]:
+        - generic [ref=e1629]:
+          - generic [ref=e1630]: Enterprise
+          - generic [ref=e1631]:
+            - generic [ref=e1633]: Custom
+            - generic [ref=e1634]: Talk to us
+            - generic [ref=e1635]: More than 5 buy boxes or custom deal volume.
+        - button "Join the waitlist" [ref=e1636] [cursor=pointer]:
+          - generic [ref=e1637]: Join the waitlist
+        - generic [ref=e1638]:
+          - generic [ref=e1639]:
+            - img [ref=e1641]
+            - generic [ref=e1643]: Unlimited buy boxes
+          - generic [ref=e1644]:
+            - img [ref=e1646]
+            - generic [ref=e1648]: Custom deal volume per night
+          - generic [ref=e1649]:
+            - img [ref=e1651]
+            - generic [ref=e1653]: Dedicated account support
+          - generic [ref=e1654]:
+            - img [ref=e1656]
+            - generic [ref=e1658]: Custom data and coverage SLAs
+          - generic [ref=e1659]:
+            - img [ref=e1661]
+            - generic [ref=e1663]: API access
+    - paragraph [ref=e1664]: No refunds — you're paying for nightly infrastructure, data access, and compute. Cancel anytime. Runs through the end of your billing period.
+  - generic [ref=e1666]:
+    - generic [ref=e1668]:
+      - heading "Investors who tried it, kept it" [level=2] [ref=e1669]
+      - paragraph [ref=e1670]: Early access feedback from real estate investors and operators using Nightdrop
+    - generic [ref=e1671]:
+      - generic [ref=e1672]:
+        - generic [ref=e1673]:
+          - generic [ref=e1674]: I set my buy box for self-storage in the Austin metro and had three legit off-market leads in my inbox the next morning. One of them turned into a deal.
+          - generic [ref=e1675]:
+            - generic [ref=e1676]: EA
+            - generic [ref=e1677]:
+              - generic [ref=e1678]: Early Access Investor
+              - generic [ref=e1679]: Austin, TX
+        - generic [ref=e1680]:
+          - generic [ref=e1681]: The distress signal breakdown alone is worth the subscription. I know exactly why each deal is flagged before I pick up the phone.
+          - generic [ref=e1682]:
+            - generic [ref=e1683]: CO
+            - generic [ref=e1684]:
+              - generic [ref=e1685]: CRE Operator
+              - generic [ref=e1686]: Dallas, TX
+      - generic [ref=e1687]:
+        - generic [ref=e1688]:
+          - generic [ref=e1689]: I was spending 15 hours a week pulling lists and screening properties. Nightdrop cut that to zero.
+          - generic [ref=e1690]:
+            - generic [ref=e1691]: W
+            - generic [ref=e1692]:
+              - generic [ref=e1693]: Wholesaler
+              - generic [ref=e1694]: Phoenix, AZ
+        - generic [ref=e1695]:
+          - generic [ref=e1696]: Finally a tool built for people who actually buy commercial real estate, not just browse it.
+          - generic [ref=e1697]:
+            - generic [ref=e1698]: AD
+            - generic [ref=e1699]:
+              - generic [ref=e1700]: Acquisitions Director
+              - generic [ref=e1701]: Denver, CO
+        - generic [ref=e1702]:
+          - generic [ref=e1703]: The deal brief tells me exactly why a property is distressed and why it hit my buy box. I know the play before I pick up the phone.
+          - generic [ref=e1704]:
+            - generic [ref=e1705]: PI
+            - generic [ref=e1706]:
+              - generic [ref=e1707]: Private Investor
+              - generic [ref=e1708]: Nashville, TN
+      - generic [ref=e1709]:
+        - generic [ref=e1710]:
+          - generic [ref=e1711]: I have three buy boxes running across two states. Deals hit my inbox every morning before I've had my coffee.
+          - generic [ref=e1712]:
+            - generic [ref=e1713]: PO
+            - generic [ref=e1714]:
+              - generic [ref=e1715]: Portfolio Operator
+              - generic [ref=e1716]: Atlanta, GA
+        - generic [ref=e1717]:
+          - generic [ref=e1718]: We tried building our own sourcing pipeline internally. It took months and it was never this good. Nightdrop was running in five minutes.
+          - generic [ref=e1719]:
+            - generic [ref=e1720]: RE
+            - generic [ref=e1721]:
+              - generic [ref=e1722]: Real Estate Fund Manager
+              - generic [ref=e1723]: Houston, TX
+  - generic [ref=e1725]:
+    - generic [ref=e1728]:
+      - heading "Frequently Asked Questions" [level=2] [ref=e1729]
+      - paragraph [ref=e1730]: Everything you need to know about Nightdrop before you get started
+    - generic [ref=e1731]:
+      - generic [ref=e1732] [cursor=pointer]:
+        - generic [ref=e1733]:
+          - generic [ref=e1734]: How is this different from PropStream or BatchLeads?
+          - img [ref=e1736]
+        - generic [ref=e1739]: Those are list tools. You pull, scrub, and decide what to call. Nightdrop delivers finished deal briefs to your inbox every morning — already filtered for distress, already scored against your threshold, already written up. The work is done before you wake up.
+      - generic [ref=e1740] [cursor=pointer]:
+        - generic [ref=e1741]:
+          - generic [ref=e1742]: What if my market doesn't have enough data?
+          - img [ref=e1744]
+        - generic [ref=e1747]: We run a coverage check on every new buy box before activating. If your geography is too thin to produce quality matches, we'll tell you upfront — and you don't get charged. Coverage is full in 47 states; non-disclosure states (TX, KS, UT, and a few others) have lighter sale-price data but full ownership and distress data.
+      - generic [ref=e1748] [cursor=pointer]:
+        - generic [ref=e1749]:
+          - generic [ref=e1750]: Where does the data come from?
+          - img [ref=e1752]
+        - generic [ref=e1755]: ATTOM property data via Snowflake. 160 million parcels, approximately 900 data points per property, including geospatial, demographic, ownership, transaction, and assessment data.
+      - generic [ref=e1756] [cursor=pointer]:
+        - generic [ref=e1757]:
+          - generic [ref=e1758]: How fresh is the data?
+          - img [ref=e1760]
+        - generic [ref=e1763]: Our pipeline runs every 24 hours. Data provided by Parcyl.ai. Every morning's brief reflects the most current ownership, assessment, and distress data available.
+      - generic [ref=e1764] [cursor=pointer]:
+        - generic [ref=e1765]:
+          - generic [ref=e1766]: How does Nightdrop score a deal?
+          - img [ref=e1768]
+        - generic [ref=e1771]: Every property is scored against your buy box criteria and ranked by match confidence. Distress signals — tax delinquency, absentee ownership, vacancy indicators, lien history — are weighted against your threshold. Only properties that clear your bar make the digest.
+      - generic [ref=e1772] [cursor=pointer]:
+        - generic [ref=e1773]:
+          - generic [ref=e1774]: What if I get a deal that's not relevant?
+          - img [ref=e1776]
+        - generic [ref=e1779]: Hit Not Relevant. We log it and tighten future matches. Buy box criteria can also be edited any time before midnight to take effect on the next run.
+      - generic [ref=e1780] [cursor=pointer]:
+        - generic [ref=e1781]:
+          - generic [ref=e1782]: What asset classes do you cover?
+          - img [ref=e1784]
+        - generic [ref=e1787]: Residential (single-family, 2-4 unit, multifamily), commercial (industrial, retail, office), self-storage, land, and mixed-use. Buy box criteria are fully customizable.
+      - generic [ref=e1788] [cursor=pointer]:
+        - generic [ref=e1789]:
+          - generic [ref=e1790]: Can I cancel anytime?
+          - img [ref=e1792]
+        - generic [ref=e1795]: Yes. Cancel from your account in two clicks. You keep your nightly runs through the end of your billing period — no refunds, no pro-rating.
+      - generic [ref=e1796] [cursor=pointer]:
+        - generic [ref=e1797]:
+          - generic [ref=e1798]: Is there a contract?
+          - img [ref=e1800]
+        - generic [ref=e1803]: No. Month-to-month. Cancel anytime.
+  - generic [ref=e1805]:
+    - img [ref=e1807]
+    - generic [ref=e1813]:
+      - generic [ref=e1814]:
+        - generic [ref=e1815]: Get started tonight
+        - heading "Tonight's run starts at 2 AM. Submit your buy box before midnight." [level=2] [ref=e1816]
+        - paragraph [ref=e1817]: Set your criteria tonight. Your agent runs at 2 AM. Tomorrow morning you'll see exactly what Nightdrop surfaces for your market.
+      - generic [ref=e1818]:
+        - button "Be in tomorrow's inbox →" [ref=e1819] [cursor=pointer]
+        - paragraph [ref=e1820]: 3-day free trial · Card required · Cancel anytime
+  - contentinfo [ref=e1822]:
+    - generic [ref=e1823]:
+      - img "Nightdrop" [ref=e1825]
+      - paragraph [ref=e1826]: Off-market deals. Every morning.
+      - generic [ref=e1827]:
+        - link "Twitter" [ref=e1828] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e1829]
+        - link "GitHub" [ref=e1831] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e1832]
+        - link "LinkedIn" [ref=e1835] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e1836]
+    - generic [ref=e1840]:
+      - generic [ref=e1841]:
+        - heading "Product" [level=3] [ref=e1842]
+        - generic [ref=e1843]:
+          - link "How It Works" [ref=e1844] [cursor=pointer]:
+            - /url: "#features-section"
+          - link "Pricing" [ref=e1845] [cursor=pointer]:
+            - /url: "#pricing-section"
+          - link "FAQ" [ref=e1846] [cursor=pointer]:
+            - /url: "#faq-section"
+          - button "Join Waitlist" [ref=e1847] [cursor=pointer]
+      - generic [ref=e1848]:
+        - heading "Company" [level=3] [ref=e1849]
+        - generic [ref=e1850]:
+          - link "About" [ref=e1851] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact" [ref=e1852] [cursor=pointer]:
+            - /url: "#"
+          - link "Book a call" [ref=e1853] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=e1854]:
+        - heading "Legal" [level=3] [ref=e1855]
+        - generic [ref=e1856]:
+          - link "Privacy Policy" [ref=e1857] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms of Use" [ref=e1858] [cursor=pointer]:
+            - /url: "#"
